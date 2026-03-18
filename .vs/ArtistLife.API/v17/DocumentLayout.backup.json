@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\ArtistLife.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3861151B-AC27-405E-BD3D-F2CB524CC9D3}|ArtistLife.API.csproj|c:\\users\\lenovo\\onedrive\\desktop\\artistlife.api\\controllers\\artworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3861151B-AC27-405E-BD3D-F2CB524CC9D3}|ArtistLife.API.csproj|solutionrelative:controllers\\artworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3861151B-AC27-405E-BD3D-F2CB524CC9D3}|ArtistLife.API.csproj|c:\\users\\lenovo\\onedrive\\desktop\\artistlife.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3861151B-AC27-405E-BD3D-F2CB524CC9D3}|ArtistLife.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3861151B-AC27-405E-BD3D-F2CB524CC9D3}|ArtistLife.API.csproj|c:\\users\\lenovo\\onedrive\\desktop\\artistlife.api\\model\\artwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3861151B-AC27-405E-BD3D-F2CB524CC9D3}|ArtistLife.API.csproj|solutionrelative:model\\artwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3861151B-AC27-405E-BD3D-F2CB524CC9D3}|ArtistLife.API.csproj|c:\\users\\lenovo\\onedrive\\desktop\\artistlife.api\\model\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3861151B-AC27-405E-BD3D-F2CB524CC9D3}|ArtistLife.API.csproj|solutionrelative:model\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArtworkController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\ArtistLife.API\\Controllers\\ArtworkController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArtworkController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\ArtistLife.API\\Controllers\\ArtworkController.cs",
+              "RelativeToolTip": "Controllers\\ArtworkController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T07:34:55.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Artwork.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\ArtistLife.API\\Model\\Artwork.cs",
+              "RelativeDocumentMoniker": "Model\\Artwork.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\ArtistLife.API\\Model\\Artwork.cs",
+              "RelativeToolTip": "Model\\Artwork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T07:32:04.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\ArtistLife.API\\Model\\Client.cs",
+              "RelativeDocumentMoniker": "Model\\Client.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\ArtistLife.API\\Model\\Client.cs",
+              "RelativeToolTip": "Model\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T07:31:14.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\ArtistLife.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\ArtistLife.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T07:07:51.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
