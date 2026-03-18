@@ -1,0 +1,6 @@
+@WorldOfArt_HostAddress = http://localhost:5064
+
+GET {{WorldOfArt_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
